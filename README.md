@@ -14,7 +14,13 @@ The undercode team ☕
 
 In the project directory, you can run:
 
-### nvp run dev
+For install of dependencies:
+
+### npm install 
+
+To run the app in script:
+
+### npm run dev
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
