@@ -1,7 +1,7 @@
 import React from "react";
 
 const Updates = () => {
-  // handles Updates/News route
+  // Hanles resource route
   return (
     <div class="container">
       <div className="spacing">
